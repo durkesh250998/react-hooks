@@ -7,6 +7,7 @@ import UseMemoExample from './hooks/UseMemoExample'
 import UseCallbackExample from './hooks/UseCallbackExample'
 import UseContextExample from './hooks/UseContextExample'
 import UseReducerExample from './hooks/UseReducerExample'
+import Userefexm from './hooks/Userefexm'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
       <UseCallbackExample/>
       <UseContextExample/>
       <UseReducerExample/>
+      <Userefexm/>
     </div>
   )
 }
